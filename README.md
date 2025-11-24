@@ -5,6 +5,7 @@ Script Overview
 
 All scripts below are located in the code_user_version/ folder.
 
+
 1. Coherence_histogram.py
 
 Purpose
@@ -29,6 +30,7 @@ Key I/O
 
   - Printed statistics (range, sample size, fraction above threshold, etc.).
 
+
 2. los_decomposition_s1_tif.py
 
 Purpose
@@ -48,6 +50,7 @@ Key I/O
   - Per-epoch East and Up GeoTIFFs.
 
   - Optional NumPy stacks (east_stack.npy, up_stack.npy).
+
 
 3. UD_decompose.py
 
@@ -72,6 +75,7 @@ Key I/O
   - Seasonal amplitude.
 
   - Linear trend parameter.
+
 
 4. LST_decompose.py
 
@@ -99,6 +103,7 @@ Key I/O
 
   - Linear trend.
 
+
 5. LST_mean.py
 
 Purpose
@@ -124,6 +129,7 @@ Key I/O
   - For each RTS ID, a file: <ID>_LST_mean.txt
 
   - Columns: Year, LST_mean.
+
 
 6. Pre_sum.py
 
@@ -151,6 +157,7 @@ Key I/O
 
   - Columns: Year, Pre_sum.
 
+
 7. Elevation.py
 
 Purpose
@@ -170,6 +177,7 @@ Key I/O
   - SVG figure: elevation histograms and KDE curves (RTS vs entire DEM).
 
   - Printed statistics and interval-based proportions.
+
 
 8. Slope.py
 
@@ -191,6 +199,7 @@ Key I/O
 
   - Printed statistics and interval-based proportions.
 
+
 9. aspect.py
 
 Purpose
@@ -211,6 +220,7 @@ Key I/O
 
   - Additional file with counts per aspect class.
 
+
 10. UD_LST_lag.py
 
 Purpose
@@ -230,6 +240,7 @@ Key I/O
 Outputs
 
   - Combined text file with lag information for all RTS IDs: RTS_ID, Year, Temp_Peak_Date, Deform_Trough_Date, Lag_Days.
+
 
 11. Kendall_preprocess.py
 
@@ -259,6 +270,7 @@ Key I/O
 
   - Columns: Year, x1 (LST_mean), x2 (Pre_sum), y1 (|trend|), ID.
 
+
 12. Kendall.py
 
 Purpose
@@ -286,6 +298,7 @@ Key I/O
   - Scatter + linear fit for bins with min/max tau.
 
   - Printed coefficients of linear fits.
+
 
 Supplementary Time Series
 
