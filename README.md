@@ -3,8 +3,6 @@ Code and supplementary materials for the GRL paper: “Decoupling Hydroclimatic 
 
 Script Overview
 
-All scripts below are located in the code_user_version/ folder.
-
 
 1. Coherence_histogram.py
 
