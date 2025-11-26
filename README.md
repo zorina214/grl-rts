@@ -300,4 +300,4 @@ Key I/O
 
 Supplementary Time Series
 
-Additionally, time-series plots and time series with error bars for all 1,034 RTSs and their external buffers are available.
+Additionally, time-series plots [RTSs_1-2kmbuffer_ts_fig(ID)] and time series with error bars [RTSs_error_bar_fig(ID)] for all 1,034 RTSs and their external buffers are available.
