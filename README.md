@@ -1,6 +1,8 @@
 # grl-rts
 Code and supplementary materials for the GRL paper: “Decoupling Hydroclimatic Controls on Displacement of Retrogressive Thaw Slump in Qinghai-Tibet Plateau”
 
+Conflict of Interest:The authors have no conflicts of interest to disclose.
+
 Script Overview
 
 
