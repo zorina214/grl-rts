@@ -300,6 +300,6 @@ Key I/O
   - Printed coefficients of linear fits.
 
 
-Supplementary Time Series
+Supplementary Materials
 
 Additionally, time-series plots [RTSs_1-2kmbuffer_ts_fig(ID)] and time series with error bars [RTSs_error_bar_fig(ID)] for all 1,034 RTSs and their external buffers are available.
